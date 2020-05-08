@@ -1,0 +1,13 @@
+{
+  "name": "clear_img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clearImg.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "mysql": "^2.18.1",
+    "single-line-log": "^1.1.2"
+  }
+}
